@@ -1,13 +1,13 @@
 <html>
 <head>
-	<title>Research Scientist</title>
+	<title>Welcome to My Website </title>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="stylesheet" href="style.css">
 </head>
 <body>
 	<header>
-		<h1>Welcome to My Website</h1>
+		<h1>Research Scientist</h1>
 		<nav>
 			<ul>
 				<li><a href="#">Home</a></li>
