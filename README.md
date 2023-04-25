@@ -1,8 +1,8 @@
-# LukasPowalla.github.io
+
 <!DOCTYPE html>
 <html>
 <head>
-	<title>My Website</title>
+	<title>Research Scientist</title>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="stylesheet" href="style.css">
@@ -20,8 +20,8 @@
 	</header>
 	<main>
 		<section>
-			<h2>About Us</h2>
-			<p>We are a company that specializes in providing high-quality products and services to our customers. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ac purus ac justo molestie hendrerit. Donec vitae tortor sit amet odio convallis finibus in ac est.</p>
+			<h2>About Me</h2>
+			<p>I am a research scientist in the field of solid state physics and especially interested to develop and bring innovative technology to application. </p>
 		</section>
 		<section>
 			<h2>Contact Us</h2>
@@ -37,7 +37,7 @@
 		</section>
 	</main>
 	<footer>
-		<p>&copy; 2023 My Website</p>
+		<p>&copy; 2023 </p>
 	</footer>
 </body>
 </html>
