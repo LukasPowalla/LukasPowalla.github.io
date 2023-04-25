@@ -12,8 +12,9 @@
 		<nav>
 			<ul>
 				<li><a href="https://scholar.google.com/citations?hl=en&user=Juh0-V8AAAAJ">Publications</a></li>
-				<li><a href="#">About</a></li>
-				<li><a href="#">Contact</a></li>
+				<li><a href="https://www.fkf.mpg.de/person/101992/2206">Max Planck Institute</a></li>
+				<li><a href="https://www.quantummaterials.mpg.de/43711/lukaspowalla">Graduate Center for Quantum Materials</a></li>
+				<li><a href="https://people.epfl.ch/lukas.powalla?lang=en">EPFL</a></li>
 			</ul>
 		</nav>
 	</header>
