@@ -1,31 +1,7 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>My Website</title>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<link rel="stylesheet" href="style.css">
-</head>
-<body>
-	<header>
-		<h1>Welcome to My Website</h1>
-		<nav>
-			<ul>
-				<li><a href="https://scholar.google.com/citations?hl=en&user=Juh0-V8AAAAJ">Publications</a></li>
-				<li><a href="https://www.fkf.mpg.de/person/101992/2206">Max Planck Institute</a></li>
-				<li><a href="https://www.quantummaterials.mpg.de/43711/lukaspowalla">Graduate Center for Quantum Materials</a></li>
-				<li><a href="https://people.epfl.ch/lukas.powalla?lang=en">EPFL</a></li>
-			</ul>
-		</nav>
-	</header>
-	<main>
-		<section>
-			<h2>About Us</h2>
-			<p>I am a research scientist in the field of solid state physics and especially interested to develop and bring innovative technology to application. </p>
-		</section>
-	</main>
-	<footer>
-		<p>&copy; 2023 My Website</p>
-	</footer>
-</body>
-</html>
+# Goal
+
+I will work on tools that might allow for automated literature research on specific topics, visualize content and author connections and create new insights. 
+
+# Scientific Backlground
+
+As a solid state scientist with interests in novel computing concepts in "classical" computing such as spintronics and neuromorphic computing, I am interested to bring together the hardwareside with the softwareside. Especially in the field of spintronics, I have a strong background on 2D materials, especially 2D magnets on which I wrote my dissertation titled "Spin Textures inn 2D Magnets". 
