@@ -1,6 +1,6 @@
 # Goal
 
-I will work on tools that might allow for automated literature research on specific topics, visualize content and author connections and create new insights. 
+I will work on tools that might allow for automated literature research on specific topics, visualize content and author connections and create new insights. In the future, this might allow to find answers to questions that we are not yet able to pose. 
 
 # Scientific Backlground
 
