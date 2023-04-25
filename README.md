@@ -12,7 +12,7 @@
 		<h1>Research Scientist</h1>
 		<nav>
 			<ul>
-				<li><a href="#">Home</a></li>
+				<li><a href="https://scholar.google.com/citations?hl=en&user=Juh0-V8AAAAJ">Publications</a></li>
 				<li><a href="#">About</a></li>
 				<li><a href="#">Contact</a></li>
 			</ul>
